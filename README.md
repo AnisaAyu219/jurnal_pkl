@@ -38,6 +38,13 @@ Once completed, students can export their journal entries into a printable inter
 - **Student Inputs Feedback (Impressions & Messages)**
 At the end of the internship, students are asked to provide impressions and messages about their internship experience. To give students space for reflection and evaluation. To provide valuable input for supervising teachers in assessing whether the internship location is suitable for future students.
 
+### 🚀 Technologies Used
+- Laravel 8
+- PHP 
+- MySQL
+- Bootstrap / HTML + CSS + JS
+- Figma (for UI design)
+
 ### 🎥 Demo Video  
 [Click here to watch the demo video](https://youtu.be/P3N8Nsd2v0g?si=jPQD6pUzc2LNO9In)
 
